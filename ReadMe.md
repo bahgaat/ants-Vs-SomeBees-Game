@@ -20,9 +20,13 @@ To play a graphical game, run:
 
 python gui.py
 
-This gui will be displayed.
+This gui will be displayed and you have press playAnts.
 
 ![](images/image1.PNG)
+
+After that the game will start and you can play it and choose your ants as I have described above.
+
+![](images/image2.PNG)
 
 There are many options to configure:
 
