@@ -20,7 +20,7 @@ To play a graphical game, run:
 
 python gui.py
 
-This gui will be displayed and you have press playAnts.
+This gui will be displayed and you have to press playAnts.
 
 ![](images/image1.PNG)
 
@@ -39,4 +39,3 @@ usage:
 
 python3 ants.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 
-For more information: https://inst.eecs.berkeley.edu/~cs61a/sp18/proj/ants/
