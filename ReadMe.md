@@ -20,9 +20,9 @@ To play a graphical game, run:
 
 python gui.py
 
-![](
+This gui will be displayed.
 
-
+![](images/image1.PNG)
 
 There are many options to configure:
 
